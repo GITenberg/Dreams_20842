@@ -1,0 +1,49 @@
+_repo: Dreams_20842
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Slosson, Edwin E. (Edwin Emery)
+    aliases:
+    - Slosson, E. E. (Edwin Emery)
+    - Slosson, Edwin Emery
+    birthdate: 1865
+    deathdate: 1929
+    gutenberg_agent_id: '7172'
+    url: http://www.gutenberg.org/2009/agents/7172
+    wikipedia: http://en.wikipedia.org/wiki/Edwin_Emery_Slosson
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bergson, Henri
+    aliases:
+    - Bergson, H. (Henri)
+    - Bergson, Henri Louis
+    birthdate: 1859
+    deathdate: 1941
+    gutenberg_agent_id: '1462'
+    url: http://www.gutenberg.org/2009/agents/1462
+    wikipedia: http://en.wikipedia.org/wiki/Henri_Bergson
+description: Before the dawn of history mankind was engaged in the study of dreaming.
+  The wise man among the ancients was preeminently the interpreter of dreams. The
+  ability to interpret successfully or plausibly was the quickest road to royal favor,
+  as Joseph and Daniel found it to be; failure to give satisfaction in this respect
+  led to banishment from court or death. When a scholar laboriously translates a cuneiform
+  tablet dug up from a Babylonian mound where it has lain buried for five thousand
+  years or more, the chances are that it will turn out either an astrological treatise
+  or a dream book ...
+gutenberg_bookshelf: Psychology
+gutenberg_issued: '2007-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20842'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Dreams'
+title: Dreams
+url: http://www.gutenberg.org/ebooks/20842
